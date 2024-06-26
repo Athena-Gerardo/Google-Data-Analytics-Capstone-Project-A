@@ -1,6 +1,6 @@
 # Cyclistic Bikeshare Usage: Google Data Analytics Capstone Project A
 
-#### The project and the data used was part of the Google Data Analytics Certification Program. For my case study, I analyzed a public dataset for a fictional company, Cyclistic. I used a variety of tools, such as R coding and the Google Sheets application. 
+#### The project and the data used was part of the Google Data Analytics Certification Program. For my case study, I analyzed a public dataset for a fictional company, Cyclistic. I used a variety of tools, such as R coding and the Google Sheets application. Information about the source code is in the Appendix.
 
 ## Introduction
 "You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently.  Cyclistic’s goal is to increase memberships among our casual riders. 
