@@ -71,7 +71,7 @@ The project aims to analyze these three questions:
 Develop and launch a Bikeshare app offered by Cyclistic. Introduce the aforementioned programs to increase memberships. If we don’t see any increase in membership sign-ons within the first 3 months of post-launch, we will conduct a survey via the app. The survey will ask our members why they chose Cyclistic, and ask casual riders what improvements they would like to see from Bikeshare. Once the data is collected, we would analyze the information and reassess more ways to increase memberships with our new insights.
 
 ## Appendix
-My source codes can be found in this repository. If access is denied, please email me at athena.gerardo@gmail.com to request full access.
+My source codes can be found in this repository. The Google Slide analysis can be found for [2019](https://docs.google.com/spreadsheets/d/1TlvhK0qKgMq7RlwpIxE-IwMngqQWDwq6ewaeK1wp8Kw/edit?usp=sharing) and [2020](https://docs.google.com/spreadsheets/d/1hwl77yphsczJpn2ukxxahZSXN_uro9vijgLBvWqjfK8/edit?usp=sharing&resourcekey=0-3S_UkRqXTjiP61-u66W7NQ). If access is denied, please email me at athena.gerardo@gmail.com to request full access.
 
 
 
